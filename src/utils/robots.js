@@ -13,25 +13,25 @@ export const robots = [
     },
     {
         id:3,
-        name: "shubham roy",
+        name: "shubham Roy",
         username: "roy",
         email: "royshubham9674@gmail.com"
     },
     {
         id:4,
-        name: "akash pual",
+        name: "akash Pual",
         username: "pual",
         email: "pualakash9674@gmail.com"
     },
     {
         id:5,
-        name: "swarup shadhuka",
+        name: "swarup Shadhuka",
         username: "shaudhuka",
         email: "swarup9674@gmail.com"
     },
     {
         id:6,
-        name: "ratul das",
+        name: "Ratul Das",
         username: "das",
         email: "ratuldas9674@gmail.com"
     },
